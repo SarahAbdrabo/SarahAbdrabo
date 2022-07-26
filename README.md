@@ -1,6 +1,6 @@
 # 👋 Hi :) I’m @SarahAbdrabo
 - 👀 I’m interested in Embedded systems' application - Automotive, IoT and Silicon.
-- 🌱 I’m currently learning Layered architrcure interfacing with Embedded C.
+- 🌱 I’m currently learning RTOS with Embedded C.
 
 ## Let's connect! 
 - 📨 Reach out to me on [gmail](mailto:sarah.m.abdrabo@gmail.com)
